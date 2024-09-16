@@ -8,7 +8,7 @@ The following files need to be executed in order.
 
 # Historical heat stress exposure
 - Step 1: Get your data
-  - Step 1.1: Open the *data_requests* file and choose to download either ERA5 or ERA5–Land data
+  - Step 1.1: Run the 'download_hourly_ERA5_data.py' file available at https://github.com/CLARE-PALM-TREEs/Download_ERA5_data
     - You will need a Copernicus (CDS) account and to specify your CDS API Key. See the following link for a tutorial: https://ecmwf-projects.github.io/copernicus-training-c3s/cds-tutorial.html
     - You can easily find the coordinate bounds using this helpful tool: https://boundingbox.klokantech.com/
   - Step 1.2: Acquire shapefiles for your region
